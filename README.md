@@ -49,7 +49,9 @@ In this Challenge, a colorado Board of Election commission asked for some more a
   -We can also use the same script for whole county election. 
   -We can use the same script to find the candidate and county or state who received lowest amount of votes.
   
+![Text to Column](https://github.com/Hanitapatel/Election_Analysis/blob/main/Resources/Election_results_terminal_output.png?raw=true)
 
+![Text to Column](https://github.com/Hanitapatel/Election_Analysis/blob/main/Resources/election_analysis_output.png?raw=true)
  
 
 
