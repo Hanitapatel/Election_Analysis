@@ -35,17 +35,23 @@ In this Challenge, a colorado Board of Election commission asked for some more a
 
 ## Election-Audit Results
   - There were 369,711 votes cast in the election
-  - Jefferson county receiced 10.5% of the votes and 38,855 votes
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
-
-Denver: 82.8% (306,055)
-
-Arapahoe: 6.7% (24,801)
-
-
-
-
-
+  - Voter and percentage of votes turnout for each county.
+        -Jefferson county received 10.5% of the votes and 38,855 votes.
+        - Denver county received 82.8% of the votes and 306,055 votes.
+        - Arapahoe received 6.7% of the votes and 24,801 votes.
+  - Largest county turnout were
+        -Denver county who received 82.8% of the votes and 306,055 votes.
+  - The winner of the election was:
+        - Diana DeGette who received 73.8% of the vote and 272,892 votes
+    
 ## Chanllenge Summary
+ We accomplish a lot of things by using this python script.
+  -We can also use the same script for whole county election. 
+  -We can use the same script to find the candidate and county or state who received lowest amount of votes.
+  
+
+ 
+
+
+
+
